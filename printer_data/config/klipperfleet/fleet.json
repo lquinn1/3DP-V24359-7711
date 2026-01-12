@@ -13,5 +13,20 @@
         "use_magic_baud": false,
         "dfu_exit_tested": false,
         "use_dfu_exit": false
+    },
+    {
+        "name": "mcu cartographer",
+        "id": "c8842ee1a7d5",
+        "profile": "",
+        "method": "can",
+        "interface": "can0",
+        "notes": "",
+        "is_katapult": false,
+        "is_bridge": false,
+        "dfu_id": null,
+        "magic_baud_tested": false,
+        "use_magic_baud": false,
+        "dfu_exit_tested": false,
+        "use_dfu_exit": false
     }
 ]
