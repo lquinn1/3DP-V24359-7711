@@ -32,7 +32,7 @@
     {
         "name": "mcu EBBCan",
         "id": "f4c298302cf4",
-        "profile": "",
+        "profile": "EBB36Gen2",
         "method": "can",
         "interface": "can0",
         "notes": "",
